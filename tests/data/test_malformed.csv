@@ -1,0 +1,7 @@
+content,category,source
+"Valid signal content","Technology","Test Source"
+,"Missing content","Test Source"
+"Another valid signal",,"Missing category"
+"Third valid signal","Technology",
+"","","Empty everything"
+"Signal with very long content that exceeds reasonable limits and should be truncated to ensure the system can handle extremely long text inputs without breaking or causing memory issues in the application","Technology","Test Source"

@@ -1,0 +1,6 @@
+content,category,source
+"Valid signal 1","Technology","Test Source"
+"Valid signal 2","Marketing","Another Source"
+,"Invalid - missing content","Test Source"
+"Valid signal 3","Operations","Third Source"
+"Valid signal 4","Strategy","Fourth Source"
